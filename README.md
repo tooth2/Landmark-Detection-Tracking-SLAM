@@ -6,7 +6,7 @@ This project implements SLAM (Simultaneous Localization and Mapping) for a 2 dim
 The project will be broken up into three Python notebooks; the first two are for exploration of provided code, and a review of SLAM architectures:
 * Step 1 : [Robot Moving and Sensing](1.%20Robot%20Moving%20and%20Sensing.ipynb): Testing with imported code from `robot_class.py`
 * Step 2 : [Omega and Xi, Constraints](2.%20Omega%20and%20Xi%2C%20Constraints.ipynb)
-* Step 3 : [Landmark Detection and Tracking](3.%20Landmark%20Detection%20and%20Tracking.ipynb) with `robot_class.py' 
+* Step 3 : [Landmark Detection and Tracking](3.%20Landmark%20Detection%20and%20Tracking.ipynb) with `robot_class.py`
 
 ### `robot_class.py`
 ####`sense` function 
